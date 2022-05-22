@@ -8,6 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -16,6 +17,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Screenshot
 
 ![](./src/assets/images/output.jpg)
+
+### Link
+
+[Link to test](https://bouhm-yassine.github.io/nft-card/)
 
 ## My process
 
